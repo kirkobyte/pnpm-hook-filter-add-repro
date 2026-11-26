@@ -1,0 +1,5 @@
+{
+  "name": "pnpm-hook-filter-add-repro",
+  "private": true,
+  "packageManager": "pnpm@12.22.0"
+}
